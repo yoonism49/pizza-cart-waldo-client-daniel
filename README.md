@@ -1,4 +1,4 @@
-# redux-shop
+# pizza-cart-waldo-client-daniel
 
 ## Installation
 
